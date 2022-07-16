@@ -1,1 +1,1 @@
-add mockuos file and add wireframe file for project 1
+add mockuops file and add wireframe file for project 1
